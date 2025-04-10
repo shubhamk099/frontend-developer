@@ -12,7 +12,7 @@ console.log("Hello, World!");
 
 console.log() is a function.
 
-console.log allows to output information to the console.
+console.log() allows to output information to the console.
 
 "Hello, World!" is a string.
 
